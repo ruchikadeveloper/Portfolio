@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "college_name": "Madhav Institue of Technology & Sciennce",
+    "degree": "B.E",
+    "Branch": "Civil Engineering",
+    "passedout": "2016 - 2020"
+
+  },
+
+  
+
+  {
+    "id": 3,
+    "college_name": " NCHS ",
+    "degree": "12th",
+    "Branch": "PCM",
+    "passedout": "2015 - 2016"
+   
+   
+  }
+]
